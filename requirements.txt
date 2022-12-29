@@ -1,0 +1,10 @@
+om @ git+https://github.com/guihcs/omatch.git
+py-stringmatching
+pymagnitude
+transformers
+pandas
+tqdm
+pytorch
+torchvision
+torchaudio
+numpy
